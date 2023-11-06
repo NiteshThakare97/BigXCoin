@@ -3228,7 +3228,7 @@ body.rtl .elementor-583 .elementor-element.elementor-element-c2f9662.elementor-t
 	}
 
 	.elementor-583 .elementor-element.elementor-element-2fd1691 {
-		padding: 2em 0em 2em 0em;
+		padding: 4em 0em 2em 0em;
 	}
 
 	.elementor-583 .elementor-element.elementor-element-ffaecfe {
@@ -3715,5 +3715,14 @@ body.rtl .elementor-583 .elementor-element.elementor-element-c2f9662.elementor-t
 	.elementor-nav-menu--toggle .elementor-menu-toggle.elementor-active+.elementor-nav-menu__container{
 		width: 300px !important;
 		left: 25px !important;
+	}
+	#homesec4 {
+		background-image: none !important;
+		background-color: #003163;
+	}
+	.elementor-583 .elementor-element.elementor-element-2fd1691 {
+		background-image: url(../../../../../../images/Home/04/Section04Image.png);
+		background-repeat: no-repeat;
+		background-size: contain;
 	}
 }

@@ -241,9 +241,15 @@
 	.elementor-33 .elementor-element.elementor-element-d877517 {
 		width: 80%;
 	}
+	.elementor-33 .elementor-element.elementor-element-394a1f2 .elementor-container {
+		align-items: center;
+	}
 
 	.elementor-33 .elementor-element.elementor-element-14070be {
-		text-align: right;
+		text-align: center;
+	}
+	.elementor-33 .elementor-element.elementor-element-14070be img {
+		max-width: 62%;
 	}
 
 	.elementor-33 .elementor-element.elementor-element-7f30b3d {
