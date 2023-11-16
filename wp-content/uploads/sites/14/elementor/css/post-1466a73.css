@@ -835,6 +835,111 @@ body .elementor-146 .elementor-element.elementor-element-7d19a91 .elementor-labe
     font-size: 24px;
 }
 
+.elementor-element-cea58de-token {
+    background-image: url(../../../../../../images/Tokenomics/Tokenomics-MainBanner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 238px;
+}
+
+.elementor-element-a4d8e83-token{
+    background-image: url(../../../../../../images/Contact/Section02BG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 6em 2em 2em 2em;
+}
+#totalsupply-card {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 32px;
+}
+.card-token, .card-token-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px 0px 41px 0px;
+    width: 34%;
+}
+.card-token{
+    background-color: #002142;
+}
+.card-token-1 {
+    background-color: #003269;
+    box-shadow: -18px 13px 27px 2px #cb9906;
+}
+.elementor-element-5b531f4-token-1 {
+    background: #fec107;
+    padding: 1em 0em 2em 0em;
+    margin-top: -110px;
+}
+.elementor-element-5b531f4-token-1 h4 {
+    text-align: center;
+    color: #735d07cc;
+    margin-bottom: -9px;
+}
+.elementor-element-5b531f4-token-1 h2 {
+    text-align: center;
+    color: #021d3a;
+    font-size: 57px;
+    font-weight: 700;
+}
+#totalsupply-card h1{
+    margin-bottom: -9px;
+    color: #fecb00;
+    text-align: center;
+    font-weight: 700;
+}
+#totalsupply-card h4{
+    color: #fff;
+}
+.elementor-element-5b531f4-token-2 {
+    display: flex;
+    padding: 3em 2em 0em 2em;
+    align-items: flex-end;
+}
+.elementor-element-5b531f4-token-2 .elementor-col-60 {
+    width: 60%;
+}
+.elementor-element-5b531f4-token-2 .elementor-col-40 {
+    width: 40%;
+}
+#token-data {
+    display: flex;
+    align-items: flex-end;
+    color: #fdcd00;
+    margin-bottom: -13px;
+}
+#token-data h3 {
+    margin-right: 12px;
+    font-weight: 600;
+    font-size: 28px;
+}
+#token-data h4 {
+    font-weight: 600;
+    font-size: 20px;
+}
+.elementor-element-5b531f4-token-details h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+#token-data-sub p{
+    font-size: 23px;
+    color: #d7dce2;
+    margin-bottom: 7px;
+}
+#token-data-main {
+    padding-left: 15%;
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1200px) {
+    .elementor-element-cea58de-token {
+        height: 178px;
+    }
+    .elementor-element-5b531f4-token-details h2{
+        line-height: 30px;
+    }
+}
+
 @media only screen and (min-width: 600px) and (max-width: 1000px) {
     .elementor-146 .elementor-element.elementor-element-cea58de{
         padding: 1em 0em 7em 0em;
@@ -843,6 +948,24 @@ body .elementor-146 .elementor-element.elementor-element-7d19a91 .elementor-labe
 		width: 700px !important;
 		left: 21px !important;
 	}
+    .elementor-element-cea58de-token {
+        height: 134px;
+    }
+    .elementor-element-5b531f4-token-2 {
+        padding: 2em 0em 0em 0em;
+        align-items: center;
+    }
+    .card-token, .card-token-1{
+        padding: 12px 0px 22px 0px;
+        width: 44%;
+    }
+    .elementor-element-5b531f4-token-details h2{
+        line-height: 30px;
+        font-size: 40px;
+    }
+    .elementor-element-5b531f4-token-1 h2 {
+        font-size: 45px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -860,4 +983,51 @@ body .elementor-146 .elementor-element.elementor-element-7d19a91 .elementor-labe
 		width: 300px !important;
 		left: 25px !important;
 	}
+    .elementor-element-cea58de-token {
+        height: 82px;
+    }
+    .card-token, .card-token-1 {
+        width: 90%;
+        margin: auto;
+    }
+    .elementor-element-5b531f4-token-1 h2 {
+        font-size: 31px;
+    }
+    #totalsupply-card {
+        flex-direction: column;
+    }
+    .elementor-element-5b531f4-token-1{
+        margin-top: -66px;
+    }
+    .card-token-1{
+        padding: 30px 0px 41px 17px !important;
+        box-shadow: -7px 10px 11px 2px #cb9906;
+    }
+    .elementor-element-5b531f4-token-2 {
+        padding: 0% !important;
+        flex-direction: column;
+    }
+    .elementor-element-5b531f4-token-2 .elementor-col-60, .elementor-element-5b531f4-token-2 .elementor-col-40 {
+        width: 100%;
+    }
+    .elementor-element-5b531f4-token-details h2 {
+        font-size: 34px;
+        line-height: 25px;
+        margin-top: 40px;
+    }
+    .elementor-element-5b531f4-token-details h2 > span {
+        font-size: 19px !important;
+    }
+    #token-data-main {
+        padding-left: 11%;
+    }
+    .elementor-element-5b531f4-token-2 .elementor-col-60 {
+        margin-bottom: 45px;
+    }
+    #token-data h3 {
+        font-size: 24px;
+    }
+    #token-data h4, #token-data-sub p{
+        font-size: 17px;
+    }
 }
